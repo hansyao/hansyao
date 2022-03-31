@@ -2,7 +2,7 @@
 
 Hi, I'm Hans Yao🏹, a financial professional loving software development from China.
 
-- 🙋🏼‍♂️ I’m currently as Freelancers in software designer
+- 🙋🏼‍♂️ I’m currently as Freelancer in software designer
 - 🎯 My current technical focus is full stack
 - 🏢 My current working city is Shanghai
 - 💬 Ask me about anything [here](https://github.com/hansyao/hansyao/issues)
